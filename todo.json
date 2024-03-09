@@ -1,0 +1,23 @@
+{
+    "say hi to your mom": {
+        "completed": true
+    },
+    "call her": {
+        "completed": true
+    },
+    "tell her you love her": {
+        "completed": true
+    },
+    "finish learning laravel": {
+        "completed": false
+    },
+    "use tailwind not css from now on": {
+        "completed": false
+    },
+    "check todo lists app frequently": {
+        "completed": false
+    },
+    "finish learning react": {
+        "completed": true
+    }
+}
